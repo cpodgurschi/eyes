@@ -1,4 +1,4 @@
-# Eye Movement
+# Eyes Movement
 <img src="Eyes.png" width='100'>
 This exercize is showcasing how a mouse movement event is used to update the position of the "eye" element displayed on the page.
 
